@@ -32,7 +32,6 @@
       </plugin>
 
       <!-- Embedded Apache Tomcat required for testing war -->
-
       <plugin>
         <groupId>org.apache.tomcat.maven</groupId>
         <artifactId>tomcat7-maven-plugin</artifactId>
