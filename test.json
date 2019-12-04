@@ -1,0 +1,4 @@
+{"index":{"_index":"cmdb_config_items", "_type":"doc", "_id": "4BS0395R"}}
+{"element_code":"4BS0395R","element_desc":"S0395R Merrimac MA","element_class":"ROU","market":"NE","switch_location":"4BS0395A","region":"NORTHEAST","latitude":42.82566000,"longitude":-71.01360000,"impact":"Low","Is_Active":1,"modified_date":"2019-11-25T17:00:55.010"},
+{"index":{"_index":"cmdb_config_items", "_type":"doc", "_id": "4BS0397B"}}
+{"element_code":"4BS0397B","element_desc":"BS397\/Howland Global MP","element_class":"BTS","market":"NE","region":"NORTHEAST","latitude":42.56000094,"longitude":-71.13082910,"impact":"High","Is_Active":1,"modified_date":"2019-11-25T17:00:55.010"}
